@@ -1,1 +1,1 @@
-# js-time-counter
+# Javascript time counter
